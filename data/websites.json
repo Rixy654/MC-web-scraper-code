@@ -1,0 +1,10 @@
+[
+  {
+    "title": "DevNetJobs.Org",
+    "url": "https://www.devnetjobs.org/standard_jobs.aspx",
+    "xPath": "form > center > table.bodybg > tbody > tr > td > table:nth-child(3) > tbody > tr > td:nth-child(2) > table > tbody > tr > td > table a",
+    "linkSelector": "id",
+    "titleSelector": "#ctl00_ContentPlaceHolder1_JD1_lblJobTitle",
+    "searchSelector": "#ctl00_ContentPlaceHolder1_JD1_lblJobDesc"
+  }
+]
